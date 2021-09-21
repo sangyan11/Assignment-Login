@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "336951454705",
+    "project_id": "assignment-login-485de",
+    "storage_bucket": "assignment-login-485de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336951454705:android:cffd3b3d361d6606f33250",
+        "android_client_info": {
+          "package_name": "com.sangyan.assignment_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336951454705-0lpoacgcagt35qhjlpt3f36p6pfvtcr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5YYpCSiy9_U-9BbPICHSFVH8bBDwaMc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336951454705-0lpoacgcagt35qhjlpt3f36p6pfvtcr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
